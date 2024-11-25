@@ -1,4 +1,4 @@
-import joi from 'joi';
+import joi from "joi";
 
 export interface Lesson {
 	id: number,
